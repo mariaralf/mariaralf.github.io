@@ -1,0 +1,12 @@
+@media only screen and (max-width:980px){
+  
+    .sec_head_flex{
+        font-size: 50px;
+    }
+}
+@media (max-width:414px){
+  
+    .sec_head_flex{
+        font-size: 140px;
+    }
+}
